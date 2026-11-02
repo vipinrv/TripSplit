@@ -1,0 +1,6 @@
+{
+  "name": "TripSplit",
+  "description": "Group expense toolkit for travel expense splitting, tracking, and settlements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
